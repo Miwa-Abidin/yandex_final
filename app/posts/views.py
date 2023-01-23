@@ -62,3 +62,5 @@ class StatusTypeRetrieve(generics.ListCreateAPIView):
             author=self.request.user.author,
             post_id=self.kwargs.get('id')
         )
+
+        #for push
