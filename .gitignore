@@ -1,3 +1,10 @@
 venv/
 .idea/
 app/db.sqlite3
+app/entrypoint.sh
+app/entrypoint.prod.sh
+.env.prod
+.env.prod.db
+yandex_final/app/accounts/migrations
+yandex_final/app/posts/migrations
+
